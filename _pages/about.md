@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YANG Luoxiao (杨骆霄)'s homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
