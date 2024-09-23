@@ -6,12 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a associate professor of School of Automation and Information Engineering, [Xi'an University of Technology (XAUT)](https://www.xaut.edu.cn/). My research interest includes time series analyze, renewable energy, and deep learning optimization.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+Before join XAUT, I was the assistant professor of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). I received my PhD degree in Data science at [City university of Hong kong](https://www.cityu.edu.hk/) in 2023.6 under the supervision of [Prof. Zijun Zhang](https://www.cityu.edu.hk/stfprofile/00308048.htm) and received my bachelor degree in Electrical engineering at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/) in 2019.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:luoxiyang2-c@my.cityu.edu.hk) / [Github](https://github.com/IkeYang) / [Google Scholar](https://scholar.google.com.hk/citations?user=ySbPl_8AAAAJ&hl=zh-CN) 
-————————————————
-
